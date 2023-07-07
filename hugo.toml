@@ -10,11 +10,11 @@ title = "/var/log/waka-kanou"
   themeColor = "blue"
   fullWidthTheme = false
   centerTheme = true
+  [params.logo]
+    logoText = "/var/log/waka-kanou"
 
 [languages]
   [languages.zh-cn]
-    title = "/var/log/waka-kanou"
-
     [languages.zh-cn.params]
       subtitle = "「若叶の日志」"
       keywords = ""
@@ -23,8 +23,6 @@ title = "/var/log/waka-kanou"
       readOtherPosts = "查看其他文章"
 
   [languages.en]
-    title = "/var/log/waka-kanou"
-
     [languages.en.params]
       subtitle = "Blog of Waka Kanou"
       keywords = ""
