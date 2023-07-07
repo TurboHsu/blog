@@ -1,59 +1,33 @@
-baseurl = "https://example.com/"
+baseurl = "https://owow.cc/"
 languageCode = "zh-cn"
 theme = "terminal"
 paginate = 5
 defaultContentLanguage = "zh-cn"
 title = "/var/log/waka-kanou"
 
+[params]
+  contentTypeName = "posts"
+  themeColor = "blue"
+  fullWidthTheme = false
+  centerTheme = true
+
 [languages]
   [languages.zh-cn]
     title = "/var/log/waka-kanou"
-    subtitle = "「若叶の日志」"
-    keywords = ""
-    copyright = ""
-    menuMore = "查看更多"
-    readMore = "阅读此文"
-    readOtherPosts = "查看其他文章"
 
     [languages.zh-cn.params]
-      contentTypeName = "posts"
-      themeColor = "blue"
-      showMenuItems = 2
-      fullWidthTheme = false
-      centerTheme = true
+      subtitle = "「若叶の日志」"
+      keywords = ""
+      menuMore = "查看更多"
+      readMore = "阅读此文"
+      readOtherPosts = "查看其他文章"
 
-    [languages.zh-cn.params.logo]
-      logoText = "# ls /var/log/waka-kanou"
-      logoHomeLink = "/"
-
-    [languages.zh-cn.menu]
-      [[languages.zh-cn.menu.main]]
-        identifier = "about"
-        name = "「关于」"
-        url = "/about"
   [languages.en]
     title = "/var/log/waka-kanou"
-    subtitle = "Blog of Waka Kanou"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
 
     [languages.en.params]
-      contentTypeName = "posts"
-      themeColor = "blue"
-      showMenuItems = 2
-      fullWidthTheme = false
-      centerTheme = true
-
-
-    [languages.en.params.logo]
-      logoText = "# ls /var/log/waka-kanou"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+      subtitle = "Blog of Waka Kanou"
+      keywords = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
