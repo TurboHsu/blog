@@ -2,6 +2,7 @@
 title: "HiWiFi HC5962 OpenWRT/LEDE 固件"
 date: 2023-09-19T16:14:26+08:00
 draft: false
+summary: "博主自己编译的固件，如果你有这台路由器，可以试试。"
 ---
 
 ## 0x00 前言
