@@ -18,7 +18,7 @@ staticDir = ["static"]
   [languages.zh-cn]
     [languages.zh-cn.params]
       subtitle = "「若叶の日志」"
-      keywords = ""
+      keywords = "TurboHsu, Blog, IT, Web, Programming, Golang, Linux"
       menuMore = "查看更多"
       readMore = "阅读此文"
       readOtherPosts = "查看其他文章"
@@ -26,7 +26,16 @@ staticDir = ["static"]
   [languages.en]
     [languages.en.params]
       subtitle = "Blog of Waka Kanou"
-      keywords = ""
+      keywords = "TurboHsu, Blog, IT, Web, Programming, Golang, Linux"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
+
+[taxonomies]
+  tag = "tags"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 1000
+  identifier = "tags"
+  url = "/tags/"

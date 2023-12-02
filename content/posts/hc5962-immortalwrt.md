@@ -2,6 +2,8 @@
 title: "HiWiFi HC5962 ImmortalWrt 固件"
 date: 2023-10-13T21:46:26+08:00
 draft: false
+keywords: ["openwrt", "HC5962", "HiWiFi", "ImmortalWrt"]
+tags: ["Router", "Resources"]
 summary: "博主自己编译的固件，如果你有这台路由器，可以试试。"
 ---
 

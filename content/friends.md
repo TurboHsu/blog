@@ -1,6 +1,7 @@
 ---
 menu: main
 title: "朋友们"
+weight: 20
 date: 2023-12-02T15:52:58+08:00
 draft: false
 ---

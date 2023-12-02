@@ -1,6 +1,7 @@
 ---
 menu: main
-title: "关于"
+weight: 10
+title: "关于我"
 date: 2023-07-07T13:26:27+08:00
 draft: false 
 ---
@@ -11,6 +12,8 @@ draft: false
 
 应该不会写诗。或许会发表一些技术文章。
 
-你或许可以去看看[我的Github](https://github.com/TurboHsu)
+你或许可以去看看 [我的Github](https://github.com/TurboHsu)
+
+你可以用这个邮件地址和我聊天 [i@0v0.rs](mailto:i@0v0.rs)
 
 > *Btw i use arch*
