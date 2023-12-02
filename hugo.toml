@@ -4,6 +4,7 @@ theme = "terminal"
 paginate = 5
 defaultContentLanguage = "zh-cn"
 title = "/var/log/waka-kanou"
+staticDir = ["static"]
 
 [params]
   contentTypeName = "posts"
