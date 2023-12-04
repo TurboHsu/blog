@@ -45,16 +45,16 @@ main {
 	--color-btn-active-border: #636e7b;
 	--color-btn-selected-bg: #2d333b;
 	--color-btn-primary-text: #fff;
-	--color-btn-primary-bg: #347d39;
+	--color-btn-primary-bg:  #23b0ff;
 	--color-btn-primary-border: #cdd9e51a;
 	--color-btn-primary-shadow: 0 0 #0000;
 	--color-btn-primary-inset-shadow: 0 0 #0000;
-	--color-btn-primary-hover-bg: #46954a;
+	--color-btn-primary-hover-bg:  #23b0ff;
 	--color-btn-primary-hover-border: #cdd9e51a;
-	--color-btn-primary-selected-bg: #347d39;
+	--color-btn-primary-selected-bg: #1b8cc4;
 	--color-btn-primary-selected-shadow: 0 0 #0000;
 	--color-btn-primary-disabled-text: #cdd9e580;
-	--color-btn-primary-disabled-bg: #347d3999;
+	--color-btn-primary-disabled-bg: #14597b;
 	--color-btn-primary-disabled-border: #cdd9e51a;
 	--color-action-list-item-default-hover-bg: #909dab1f;
 	--color-segmented-control-bg: #636e7b1a;
@@ -94,6 +94,9 @@ main .pagination-loader-container {
 }
 
 /*! Custom CSS */
+.gsc-reactions {
+    margin-top: 40px;
+}
 .gsc-reactions-count {
 	display: none;
 }
@@ -109,16 +112,32 @@ main .pagination-loader-container {
 .gsc-comments > .gsc-comment-box {
 	margin-bottom: 1rem;
 	order: 2;
-    border-radius: 0px;
 }
 .gsc-comments > .gsc-timeline {
 	order: 3;
 }
-.gsc-comment-box {
-    border-radius: 0px;
+.gsc-comment-box,
+.gsc-comment-box-tabs,
+.gsc-comment-box-textarea,
+.gsc-comment-box-textarea-extras,
+.rounded-md,
+.rounded-t,
+.gsc-right-header,
+.BtnGroup-item,
+.btn  {
+    border-radius: 0px !important;
 }
-.gsc-homepage-bg {
-	background-color: #15202b;
+.border {
+    border-color: #444c56 !important;
+}
+.color-bg-primary {
+    background-color: #1d212c67 !important;
+}
+.color-bg-tertiary {
+    background-color: #1d212c3d !important;
+}
+.color-bg-canvas {
+    background-color: #1d212c00 !important;
 }
 main .gsc-loading-image {
 	background-image: url(https://github.githubassets.com/images/mona-loading-dimmed.gif);
