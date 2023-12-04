@@ -18,3 +18,4 @@ draft: false
 |{{<image src="https://avatars.githubusercontent.com/u/118108434" width="100px" position="center">}}|yyc|[Github](https://github.com/yyc2004)|肉编器(指人肉编译器)|
 |{{<image src="https://avatars.githubusercontent.com/u/58358419" width="100px" position="center">}}|LinBeitsi|[Github](https://github.com/NevadaCities)|摸摸|
 |{{<image src="https://avatars.githubusercontent.com/u/25097028" width="100px" position="center">}}|BX Zhang|[Github](https://github.com/zbx1425) [Website](hhttps://www.zbx1425.cn/)|铁道大师|
+|{{<image src="https://image.yuyuancloud.com/2023/09/29/6516ca4b52cfe.jpg" width="100px" position="center">}}|Arcat|[Github](https://github.com/xvx233) [Website](https://ht.gd.cn)|刻刻猫|
