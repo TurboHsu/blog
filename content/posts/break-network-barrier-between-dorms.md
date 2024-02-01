@@ -1,7 +1,7 @@
 +++
 title = "打通和朋友宿舍间的网段"
 date = "2023-12-02T17:23:53+08:00"
-tags = ["Networking", "Random Stuff", "Router", "Linux"]
+tags = ["Journal", "Networking", "Router", "Linux"]
 keywords = ["Wireguard", "OpenWRT", "Networking"]
 description = "我想随时都能访问朋友宿舍的NAS，所以我打通了我们的网段。"
 showFullContent = false
