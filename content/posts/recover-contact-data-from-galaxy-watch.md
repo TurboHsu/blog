@@ -190,7 +190,7 @@ http://tizen.org/privilege/externalstorage
 
 由于该程序并没有申请权限的步骤，因此没有弹出权限申请框。但是可以在`设置` - `许可管理器`中手动允许需要的权限。编译、上传、手动允许权限之后，可以在`Log`中观察到程序正在生成`vCard`文件，不错。
 
-![导出vcf文件](/static/images/recover-contact-data-from-galaxy-watch/Screenshot%202024-01-30%20214702.png)
+![导出vcf文件](/images/recover-contact-data-from-galaxy-watch/Screenshot%202024-01-30%20214702.png)
 
 之后可以通过`tar`打一个包，然后用`Tizen Studio`中的`Device Manager`拉取打包好的数据，这样就好了。
 
