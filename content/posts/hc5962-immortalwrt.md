@@ -31,10 +31,10 @@ summary: "博主自己编译的固件，如果你有这台路由器，可以试�
 
 编译这个固件主要是为了内置`syncdial`和一些多播必要的东西。如果你不需要这些，也可以选择`ImmortalWrt`预编译的固件，它在 **[这里](https://firmware-selector.immortalwrt.org/)** ，其余效果是一样的。
 
-这是我的 **[.config](https://nvme0n1p1.brain0.dev/d/AlidriveShare/Resources/HC5962/.config)** ，
+这是我的 **[.config](https://mnt.0v0.rs/d/AlidriveShare/Resources/HC5962/.config)** ，
 你有兴趣的话可以用这个来编译。
 
- **[这些](https://nvme0n1p1.brain0.dev/d/AlidriveShare/Resources/HC5962/immortalwrt-ramips-mt7621-hiwifi_hc5962.tar.xz)** 是我编译好的固件，如果你要用的话，它包含这些内容：
+ **[这些](https://mnt.0v0.rs/d/AlidriveShare/Resources/HC5962/immortalwrt-ramips-mt7621-hiwifi_hc5962.tar.xz)** 是我编译好的固件，如果你要用的话，它包含这些内容：
 
 ```bash
 .
